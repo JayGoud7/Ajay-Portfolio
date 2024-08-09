@@ -39,7 +39,7 @@ function Section() {
   return (
     <section className="section1">
       <div className="a">
-        <h1>About me</h1>
+        <h1>About Me</h1>
         <h2>My introduction</h2>
       </div>
       <div className="reveal">
