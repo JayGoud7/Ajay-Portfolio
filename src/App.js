@@ -9,9 +9,10 @@ import Skill from "./components/Skills/Skill";
 import Connect from "./components/connect/connect";
 import Section4 from "./components/project-block/Section4";
 
-const loco = new LocomotiveScroll();
+new LocomotiveScroll();
 
 function App() {
+  
   return (
     <main>
       <Cursor />
