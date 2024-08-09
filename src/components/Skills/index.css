@@ -1,0 +1,181 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  font-family: "Poppins";
+  text-decoration: none;
+}
+
+.section3 {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-direction: column;
+}
+.section3 .headr {
+  text-align: center;
+}
+.section3 .headr h4 {
+  font-size: 1.4vw;
+  font-weight: 500;
+}
+.section3 .headr h1 {
+  font-size: 3.5vw;
+  font-weight: 600;
+  letter-spacing: 0.03vw;
+}
+.section3 .box {
+  display: grid;
+  grid-template-columns: 45% 45%;
+  place-content: center;
+  gap: 15px;
+}
+.section3 .box--1 {
+  /* border: 1.5px solid #808080; */
+  padding: 10px 10px;
+  border-radius: 2vw;
+}
+.section3 .box--1 h1 {
+  font-size: 2.6vw;
+  font-weight: 600;
+  letter-spacing: 0.03vw;
+  color: #808080;
+  text-align: center;
+}
+.prd-- {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.prd-- .sip {
+  width: 40%;
+  padding: 20px 0px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.prd-- div i {
+  font-size: 2.3vw;
+  margin-right: 1vw;
+}
+.prd-- div h4 {
+  font-size: 1.6vw;
+  font-weight: 600;
+  text-align: start;
+}
+.prd-- div h5 {
+  font-size: 1.4vw;
+  font-weight: 400;
+  text-align: start;
+  color: #808080;
+}
+
+.section3 .box--2 {
+  /* border: 1.5px solid #808080; */
+  padding: 10px 10px;
+
+  border-radius: 2vw;
+}
+
+.section3 .box--2 h1 {
+  font-size: 2.6vw;
+  font-weight: 600;
+  letter-spacing: 0.03vw;
+  color: #808080;
+  text-align: center;
+}
+@media screen and (max-width: 470px) {
+  .section3 {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+  }
+  .section3 .headr {
+    text-align: center;
+  }
+  .section3 .headr h4 {
+    font-size: 2.5vw;
+    font-weight: 500;
+  }
+  .section3 .headr h1 {
+    font-size: 5.5vw;
+    font-weight: 600;
+    letter-spacing: 0.03vw;
+  }
+  .section3 .box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+    padding: 30px;
+    gap: 20px;
+  }
+  .section3 .box--1 {
+    border: 1.5px solid #808080;
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .section3 .box--1 h1 {
+    font-size: 5.5vw;
+    font-weight: 600;
+    letter-spacing: 0.03vw;
+    color: #808080;
+    text-align: center;
+    font-family: "Poppins";
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .prd-- {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+  }
+  .prd-- .sip {
+    width: 40%;
+    padding: 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  }
+
+  .prd-- div i {
+    font-size: 5.3vw;
+  }
+  .prd-- div h4 {
+    font-size: 3.6vw;
+    font-weight: 600;
+    text-align: start;
+  }
+  .prd-- div h5 {
+    font-size: 3.4vw;
+    font-weight: 400;
+    text-align: start;
+    color: #808080;
+  }
+
+  .section3 .box--2 {
+    border: 1.5px solid #808080;
+    padding: 10px 0px;
+
+    border-radius: 2vw;
+  }
+
+  .section3 .box--2 h1 {
+    font-size: 5.5vw;
+    font-weight: 600;
+    letter-spacing: 0.03vw;
+    color: #808080;
+    text-align: center;
+  }
+}

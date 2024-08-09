@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Satoshi", sans-serif;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
+nav {
+  width: 100vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px 70px;
+  position: relative;
+  /* box-shadow: 1px 0.1px 7px black; */
+}
+
+ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ul li {
+  margin-right: 40px;
+  list-style: none;
+  cursor: pointer;
+  font-size: 1.4vw;
+  font-weight: 400;
+  display: inline-block;
+}
+
+ul li a {
+  font-family: "roboto";
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: white;
+}
+ul li:nth-child(1) {
+  border-radius: 100px 0px 0px 100px;
+}
+ul li:nth-child(3) {
+  border-radius: 0px 100px 100px 0px;
+}
+
+.menu-button {
+  position: relative;
+  cursor: pointer;
+  overflow: hidden;
+  font-size: 1.5vw; /* equivalent to text-2xl in Tailwind */
+  letter-spacing: px; /* equivalent to leading-6 in Tailwind */
+  color: #000;
+  font-weight: 900;
+
+  /* equivalent to text-black in Tailwind */
+}
+
+.menu-button .text {
+  display: inline-block;
+  padding: 0.25rem; /* equivalent to p-1 in Tailwind */
+  transition: transform 0.6s ease-out;
+  font-weight: 900;
+}
+
+.menu-button .text-hover {
+  position: absolute;
+  left: 0;
+  display: inline-block;
+  transform: translateY(73%);
+  padding: 0.25rem; /* equivalent to p-1 in Tailwind */
+  transition: transform 0.5s ease-out;
+  font-weight: 900;
+}
+.menu-button:hover .text {
+  transform: translateY(-120%) rotateX(45deg);
+}
+.menu-button:hover .text-hover {
+  transform: translateY(0%);
+}
+.menu-button a {
+  font-family: sans-serif;
+}
+@media screen and (max-width: 470px) {
+  nav {
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 30px;
+    position: relative;
+    /* box-shadow: 1px 0.1px 7px black; */
+  }
+
+  ul li {
+    margin-right: 20px;
+    list-style: none;
+    cursor: pointer;
+    font-size: 3.5vw;
+    font-weight: 400;
+    display: inline-block;
+  }
+  .menu-button {
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    font-size: 3.5vw; /* equivalent to text-2xl in Tailwind */
+    color: #000;
+    font-weight: 900;
+  }
+
+ 
+ 
+}
