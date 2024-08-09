@@ -104,7 +104,7 @@ ul li:nth-child(3) {
     margin-right: 20px;
     list-style: none;
     cursor: pointer;
-    font-size: 3.5vw;
+    font-size: 4vw;
     font-weight: 400;
     display: inline-block;
   }
@@ -112,7 +112,7 @@ ul li:nth-child(3) {
     position: relative;
     cursor: pointer;
     overflow: hidden;
-    font-size: 3.5vw; /* equivalent to text-2xl in Tailwind */
+    font-size: 3.9vw; /* equivalent to text-2xl in Tailwind */
     color: #000;
     font-weight: 900;
   }

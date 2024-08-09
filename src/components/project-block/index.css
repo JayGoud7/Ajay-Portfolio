@@ -130,13 +130,13 @@
     padding: 10px;
   }
   .projectbox {
-    width: 85vw;
-    height: 45vh;
+    width: 68vw;
+    height: 50vh;
     display: flex;
     justify-content: space-between;
     align-items: center;
     flex-direction: column;
-    padding: 10px 20px;
+    padding: 15px 20px;
     border-radius: 12px;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
   }
@@ -169,7 +169,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 80vw;
+    width: 59vw;
     height: 30vh;
     overflow: hidden;
   }

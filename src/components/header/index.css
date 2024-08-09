@@ -84,7 +84,7 @@
 @media screen and (max-width:470px) {
   .header {
     width: 100vw;
-    height: 95vh;
+    height: 90vh;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -101,13 +101,13 @@
     color: #423d3d;
   }
   .h-f h1 {
-    font-size: 5.5vw;
+    font-size: 5.9vw;
     font-weight: 600;
     font-family: "Roboto", sans-serif;
   }
   .h-f h2 {
     font-weight: 600;
-    font-size: 3.5vw;
+    font-size: 3.9vw;
     font-family: "Noto Sans";
     padding: 7px 0px;
   }
@@ -122,7 +122,7 @@
     border-radius: 1.4vw;
     font-family: "Roboto";
     font-weight: 500;
-    font-size: 2.7vw;
+    font-size: 3vw;
     cursor: pointer;
   }
   .anc-button a:nth-child(2) {
@@ -139,10 +139,10 @@
     background-color: black;
   }
   .icon {
-    padding: 15px 0px;
+    padding: 12px 0px;
   }
   .icon a {
-    font-size: 5.5vw;
+    font-size: 5.9vw;
   }
   .icon a:nth-child(1) {
     margin-left: 10px;
