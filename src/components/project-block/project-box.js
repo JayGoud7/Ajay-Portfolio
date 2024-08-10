@@ -12,7 +12,7 @@ const Projects = () => {
       tech: ["Next.js", "MongoDB", "React.js", "Tailwind"],
       img: img1,
       href: "https://github.com/JayGoud7/Rental.com",
-      href2: "https://rentalcom.netlify.app/",
+      href2: "https://rentalcom.netlify.app",
     },
     {
       title: "IMDB Clone",
@@ -20,7 +20,7 @@ const Projects = () => {
       tech: ["React.js", "Rest Api"],
       img: img2,
       href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app/",
+      href2: "https://imdbcl.netlify.app",
     },
   ];
 

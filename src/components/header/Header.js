@@ -75,7 +75,7 @@ function Header() {
         <h2 ref={uRef2}>Frontend Developer</h2>
         <div ref={uRef3} className="anc-button">
           <a href="#44">Download Resume</a>
-          <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/ajay-b-606630266/">Hire Me</a>
+          <a rel="noreferrer" target="_blank" href="https://www.linkedin.com/in/ajay-burra-ba040b322">Hire Me</a>
         </div>
         <div className="icon" ref={uRef4}>
           <a
@@ -88,7 +88,7 @@ function Header() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/ajay-b-606630266/"
+            href="https://www.linkedin.com/in/ajay-burra-ba040b322"
           >
             <FaLinkedin />
           </a>
