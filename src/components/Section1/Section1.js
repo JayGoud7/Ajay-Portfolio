@@ -62,7 +62,7 @@ function Section() {
           <h3>YEARS OF EXPERIENCE</h3>
         </div>
         <div className="m1">
-          <h2>4+</h2>
+          <h2>10+</h2>
           <h3>PROJECTS COMPLETED</h3>
         </div>
       </div>
