@@ -7,70 +7,8 @@ import img2 from '../../images/img2.png';
 const Projects = () => {
   const projectobj = [
     {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
-      img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
-    },
-
-    {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
-      img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
-    },
-
-    {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
-      img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
-    },
-
-    {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
-      img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
-    },
-
-    {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
-      img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
-    },
-
-    {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
-      img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
-    },
-    {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
-      img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
-    },
-
-    {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      title: "The Offical Tribe",
+      des: "We don't follow formulas. Every story is shaped by rhythm, energy, and emotional intelligence.",
       tech: ["React.js", "Rest Api"],
       img: img2,
       href: "https://github.com/JayGoud7/IMDB_cl",
