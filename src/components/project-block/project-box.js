@@ -9,19 +9,19 @@ const Projects = () => {
     {
       title: "The Offical Tribe",
       des: "We don't follow formulas. Every story is shaped by rhythm, energy, and emotional intelligence.",
-      tech: ["React.js", "Rest Api"],
+      tech: ["HTML", "CSS","JavaScript" "GSAP", "PHP"],
       img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
+      href: "#",
+      href2: "https://theofficialtribe.com",
     },
 
     {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
+      title: "TRUFIT CABINETS",
+      des: "Quiet luxury interiors. shaped by true stories.",
+      tech: ["HTML", "CSS","JavaScript" "GSAP"],
       img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
+      href: "#",
+      href2: "https://www.trufitcabinets.com",
     },
     
     {
