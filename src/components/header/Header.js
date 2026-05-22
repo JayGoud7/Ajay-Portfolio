@@ -88,7 +88,7 @@ function Header() {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/ajay-burra-ba040b322"
+            href="https://in.linkedin.com/in/ajaydev01"
           >
             <FaLinkedin />
           </a>
