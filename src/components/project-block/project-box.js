@@ -7,6 +7,86 @@ import img2 from '../../images/img2.png';
 const Projects = () => {
   const projectobj = [
     {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+
+    {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+
+    {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+
+    {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+
+    {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+
+    {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+    {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+
+    {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+
+    {
+      title: "IMDB Clone",
+      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+      tech: ["React.js", "Rest Api"],
+      img: img2,
+      href: "https://github.com/JayGoud7/IMDB_cl",
+      href2: "https://imdbcl.netlify.app",
+    },
+    
+    {
       title: "Rental.com",
       des: "Rental.com is a MERN full-stack app featuring a dynamic React frontend. Users enjoy secure Google authentication and manual login option. Powered by MongoDB, it enables seamless CRUD operations.",
       tech: ["Next.js", "MongoDB", "React.js", "Tailwind"],
@@ -22,6 +102,7 @@ const Projects = () => {
       href: "https://github.com/JayGoud7/IMDB_cl",
       href2: "https://imdbcl.netlify.app",
     },
+    
   ];
 
   return (
