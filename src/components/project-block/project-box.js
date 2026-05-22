@@ -18,7 +18,7 @@ const Projects = () => {
     {
       title: "TRUFIT CABINETS",
       des: "Quiet luxury interiors. shaped by true stories.",
-      tech: ["HTML", "CSS","JavaScript" "GSAP"],
+      tech: ["HTML", "CSS","JavaScript", "GSAP"],
       img: img2,
       href: "#",
       href2: "https://www.trufitcabinets.com",
