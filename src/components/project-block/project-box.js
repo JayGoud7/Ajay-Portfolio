@@ -6,42 +6,42 @@ import img2 from '../../images/img2.png';
 
 const Projects = () => {
   const projectobj = [
-    {
-      title: "The Offical Tribe",
-      des: "We don't follow formulas. Every story is shaped by rhythm, energy, and emotional intelligence.",
-      tech: ["HTML", "CSS","JavaScript" "GSAP", "PHP"],
-      img: img2,
-      href: "#",
-      href2: "https://theofficialtribe.com",
-    },
+  {
+    title: "The Offical Tribe",
+    des: "We don't follow formulas. Every story is shaped by rhythm, energy, and emotional intelligence.",
+    tech: ["HTML", "CSS", "JavaScript", "GSAP", "PHP"],
+    img: img2,
+    href: "#",
+    href2: "https://theofficialtribe.com",
+  },
 
-    {
-      title: "TRUFIT CABINETS",
-      des: "Quiet luxury interiors. shaped by true stories.",
-      tech: ["HTML", "CSS","JavaScript", "GSAP"],
-      img: img2,
-      href: "#",
-      href2: "https://www.trufitcabinets.com",
-    },
-    
-    {
-      title: "Rental.com",
-      des: "Rental.com is a MERN full-stack app featuring a dynamic React frontend. Users enjoy secure Google authentication and manual login option. Powered by MongoDB, it enables seamless CRUD operations.",
-      tech: ["Next.js", "MongoDB", "React.js", "Tailwind"],
-      img: img1,
-      href: "https://github.com/JayGoud7/Rental.com",
-      href2: "https://rentalcom.netlify.app",
-    },
-    {
-      title: "IMDB Clone",
-      des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
-      tech: ["React.js", "Rest Api"],
-      img: img2,
-      href: "https://github.com/JayGoud7/IMDB_cl",
-      href2: "https://imdbcl.netlify.app",
-    },
-    
-  ];
+  {
+    title: "TRUFIT CABINETS",
+    des: "Quiet luxury interiors. shaped by true stories.",
+    tech: ["HTML", "CSS", "JavaScript", "GSAP"],
+    img: img2,
+    href: "#",
+    href2: "https://www.trufitcabinets.com",
+  },
+
+  {
+    title: "Rental.com",
+    des: "Rental.com is a MERN full-stack app featuring a dynamic React frontend. Users enjoy secure Google authentication and manual login option. Powered by MongoDB, it enables seamless CRUD operations.",
+    tech: ["Next.js", "MongoDB", "React.js", "Tailwind"],
+    img: img1,
+    href: "https://github.com/JayGoud7/Rental.com",
+    href2: "https://rentalcom.netlify.app",
+  },
+
+  {
+    title: "IMDB Clone",
+    des: "IMDB Clone is featuring a dynamic React frontend with Rest Api.",
+    tech: ["React.js", "Rest Api"],
+    img: img2,
+    href: "https://github.com/JayGoud7/IMDB_cl",
+    href2: "https://imdbcl.netlify.app",
+  },
+];
 
   return (
     <>
