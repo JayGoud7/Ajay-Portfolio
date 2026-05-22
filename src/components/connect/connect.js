@@ -8,9 +8,9 @@ function Footer() {
       <h1>Contact Me</h1>
       <div className="contac--vv">
         <i className="ri-mail-fill"></i>
-        <a href="#2">ajaygoud057@gmail.com</a>
+        <a href="mailto: ajaygoud057@gmail.com">ajaygoud057@gmail.com</a>
         <i className="ri-linkedin-box-fill"></i>
-        <a href="https://www.linkedin.com/in/ajay-burra-ba040b322">LinkedIn</a>
+        <a href="https://in.linkedin.com/in/ajaydev01">LinkedIn</a>
       </div>
 
       <h4>Copyright &copy; 2024 Ajay Goud. All Rights Reserved. </h4>
