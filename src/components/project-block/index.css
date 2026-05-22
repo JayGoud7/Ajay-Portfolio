@@ -1,5 +1,4 @@
 .section4 {
-  height: 100vh;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
@@ -15,11 +14,10 @@
   font-size: 3.8vw;
 }
 .pro_con {
-  display: flex;
-  justify-content: space-evenly;
-  align-items: center;
-  gap: 25px;
-  padding: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+    height: 100%;
+      gap: 25px;
 }
 .projectbox {
   width: 28vw;
