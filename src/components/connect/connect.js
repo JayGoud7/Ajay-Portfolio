@@ -13,7 +13,7 @@ function Footer() {
         <a href="https://in.linkedin.com/in/ajaydev01">LinkedIn</a>
       </div>
 
-      <h4>Copyright &copy; 2024 Ajay Goud. All Rights Reserved. </h4>
+      <h4>Copyright &copy; 2026 Ajay Goud. All Rights Reserved. </h4>
     </footer>
   );
 }
