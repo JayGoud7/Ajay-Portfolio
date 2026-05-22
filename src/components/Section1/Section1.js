@@ -17,7 +17,7 @@ function Section() {
 
   gsap.registerPlugin(ScrollTrigger);
   const text =
-    '"I bring a decade of industry passion and a proven track record of collaborating with prestigious organizations. I am eager to apply my skills to create impactful user experiences and contribute effectively to project success, driven by a relentless pursuit of excellence."';
+    '"Full-Stack Web Developer with 1+ year of professional and freelance experience building scalable, high-performance web applications using React.js, Next.js, TypeScript, and Node.js. Focused on creating responsive, pixel-perfect, and performance-driven digital experiences."';
 
   useEffect(() => {
     const anim = gsap.to(lettersRef.current, {
