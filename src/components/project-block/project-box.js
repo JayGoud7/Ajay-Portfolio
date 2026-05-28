@@ -3,6 +3,8 @@ import { FaGithub, FaLink } from "react-icons/fa";
 import "./index.css";
 import img1 from "../../images/img.png";
 import img2 from '../../images/img2.png';
+import img3 from '../../images/trufit.png';
+import img4 from '../../images/tribe.png';
 
 const Projects = () => {
   const projectobj = [
@@ -10,7 +12,7 @@ const Projects = () => {
     title: "The Offical Tribe",
     des: "We don't follow formulas. Every story is shaped by rhythm, energy, and emotional intelligence.",
     tech: ["HTML", "CSS", "JavaScript", "GSAP", "PHP"],
-    img: img2,
+    img: img4,
     href: "#",
     href2: "https://theofficialtribe.com",
   },
@@ -19,7 +21,7 @@ const Projects = () => {
     title: "TRUFIT CABINETS",
     des: "Quiet luxury interiors. shaped by true stories.",
     tech: ["HTML", "CSS", "JavaScript", "GSAP"],
-    img: img2,
+    img: img3,
     href: "#",
     href2: "https://www.trufitcabinets.com",
   },
