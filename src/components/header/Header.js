@@ -72,7 +72,7 @@ function Header() {
         <h1 ref={uRef1}>
           Hello, <span>I'm Ajay Goud</span>
         </h1>
-        <h2 ref={uRef2}>Frontend Developer</h2>
+        <h2 ref={uRef2}>Full Stack Developer</h2>
         <div ref={uRef3} className="anc-button">
           <a href="#44">Download Resume</a>
           <a rel="noreferrer" target="_blank" href="https://in.linkedin.com/in/ajaydev01">Hire Me</a>
